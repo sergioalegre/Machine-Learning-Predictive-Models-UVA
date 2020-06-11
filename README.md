@@ -30,7 +30,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 Practicas del curso de Modelos predictivos con Machine Learning de la UVA.
 <br><br>
 <p align="center">
-    <img src="http://sergioalegre.es/machine_learning_sergio_alegre.png" alt="Logo" width="360" height="">
+   <img src="http://sergioalegre.es/machine_learning_sergio_alegre.png" alt="Logo" width="850" height="">
 </p>
 
 ## Contact
