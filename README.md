@@ -10,7 +10,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><!-- TITULO -->Buscador AJAX similar a Google</h3>
+  <h3 align="center"><!-- TITULO -->Practicas del curso de Modelos predictivos con Machine Learning de la UVA.</h3>
 
   <p align="center">
     <!-- DESCRIPCION -->Practicas del curso de Modelos predictivos con Machine Learning de la UVA.
