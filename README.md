@@ -44,6 +44,7 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 * Machine Learning
 * Regresion Lineal / Linear Regression
 * Regresion Polinomial / Polinomial Regression.
+* Regresion Logistica con Resampling
 * SVR / Support Vector Regression
 
 
