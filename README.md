@@ -43,13 +43,12 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 * Python
 * Machine Learning
 * Regresion Lineal / Linear Regression
-* Random Forest
-* Support Vector Machine aka SVM
-* K-Medias / K-Means Clustering
-* Tensorflow
+* Regresion Polinomial / Polinomial Regression.
+* SVR / Support Vector Regression
+
 
 ## Getting Started
-- Ejemplos sencillos de diversas técnicas de aprendizaje de diferentes datasets populares. Ejemplos de Regresión lineal, Random forest, SVM, Clustering con K-Means y Tensorflow.
+- Ejemplos sencillos de diversas técnicas de aprendizaje de diferentes datasets populares. Ejemplos de Regresión lineal, SVR
 <br><br>
 - Simple example of diffentent ML techniques using popular datasets. Examples based Linear Regression, Random Forest, Support Vector Machine, K-Means Clustering and Tensorflow.
 
