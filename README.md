@@ -47,6 +47,8 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 * SVR / Support Vector Regression.
 * Regresion Logistica con Resampling.
 * Matriz de confusion / Confusion Matrix
+* Variables Dummy
+* Selección de caracteristicas
 
 
 ## Getting Started
