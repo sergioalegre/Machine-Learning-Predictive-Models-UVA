@@ -37,6 +37,7 @@ Practicas del curso de Modelos predictivos con Machine Learning de la UVA.
 Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
+website: http://me.sergioalegre.es
 
 
 ### Built With
