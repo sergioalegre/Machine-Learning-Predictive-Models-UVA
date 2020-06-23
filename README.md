@@ -49,6 +49,8 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 * Matriz de confusion / Confusion Matrix
 * Variables Dummy
 * Selección de caracteristicas
+* Clustering con K-means
+* Time Series
 
 
 ## Getting Started
