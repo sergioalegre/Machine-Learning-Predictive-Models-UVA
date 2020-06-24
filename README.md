@@ -52,7 +52,7 @@ Website: http://me.sergioalegre.es
 * Variables Dummy
 * Selección de caracteristicas
 * Clustering con K-means
-* Time Series
+* Series de tiempo / Time Series
 
 
 ## Getting Started
