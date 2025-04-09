@@ -7,7 +7,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 <br />
 <p align="center">
   <a href="https://github.com/sergioalegre/Machine-Learning-Basic-UVA">
-    <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
+    <img src="https://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><!-- TITULO -->Practicas del curso de Modelos predictivos con Machine Learning de la UVA.</h3>
@@ -30,7 +30,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 Practicas del curso de Modelos predictivos con Machine Learning de la UVA.
 <br><br>
 <p align="center">
-   <img src="http://sergioalegre.es/machine_learning_sergio_alegre.png" alt="Logo" width="850" height="">
+   <img src="https://sergioalegre.es/machine_learning_sergio_alegre.png" alt="Logo" width="850" height="">
 </p>
 
 ## Contact
